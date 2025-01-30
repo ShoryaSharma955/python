@@ -1,0 +1,5 @@
+is_old=bool('hello')
+is_licence=bool(5)
+print(bool('hello'))
+print(bool(5))
+print(bool(0))
